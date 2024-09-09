@@ -11,6 +11,9 @@ class Customer(Base):
     phone: Mapped[str] = mapped_column(db.String(25), nullable=False)
     username: Mapped[str] = mapped_column(db.String(30), nullable=False, unique=True)
     password: Mapped[str] = mapped_column(db.String(255), nullable=False)
+<<<<<<< HEAD
     admin: Mapped[int] = mapped_column(db.Integer, nullable=False)
+=======
+>>>>>>> e53bbe57d456273431e47c43e69a6a86f6b3a18f
     #One-to-Many relationship: One customer can place many orders
     orders: Mapped[List['Order']] = db.relationship(back_populates='customer')

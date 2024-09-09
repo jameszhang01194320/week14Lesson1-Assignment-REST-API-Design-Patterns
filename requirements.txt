@@ -22,7 +22,10 @@ mysql-connector-python==9.0.0
 ordered-set==4.1.0
 packaging==24.1
 Pygments==2.18.0
+<<<<<<< HEAD
 PyJWT==2.9.0
+=======
+>>>>>>> e53bbe57d456273431e47c43e69a6a86f6b3a18f
 rich==13.8.0
 SQLAlchemy==2.0.32
 typing_extensions==4.12.2

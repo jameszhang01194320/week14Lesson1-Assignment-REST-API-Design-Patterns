@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/148-REST-API-main.iml" filepath="$PROJECT_DIR$/.idea/148-REST-API-main.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/week14Lesson1-Assignment-REST-API-Design-Patterns.iml" filepath="$PROJECT_DIR$/.idea/week14Lesson1-Assignment-REST-API-Design-Patterns.iml" />
+>>>>>>> e53bbe57d456273431e47c43e69a6a86f6b3a18f
     </modules>
   </component>
 </project>

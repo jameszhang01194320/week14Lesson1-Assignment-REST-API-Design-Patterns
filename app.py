@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 from math import prod
+=======
+>>>>>>> e53bbe57d456273431e47c43e69a6a86f6b3a18f
 from flask import Flask
 from database import db
 from models.schemas import ma
@@ -28,6 +31,10 @@ def create_app(config_name):
     blueprint_config(app)
     rate_limit_config(app)
     cache.init_app(app)
+<<<<<<< HEAD
+=======
+
+>>>>>>> e53bbe57d456273431e47c43e69a6a86f6b3a18f
     return app
 
 def blueprint_config(app):

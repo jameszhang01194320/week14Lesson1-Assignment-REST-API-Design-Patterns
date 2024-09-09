@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
     <option name="sdkName" value="Python 3.12 (148-REST-API-main)" />
+=======
+    <option name="sdkName" value="Python 3.12 (week14Lesson1-Assignment-REST-API-Design-Patterns)" />
+>>>>>>> e53bbe57d456273431e47c43e69a6a86f6b3a18f
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (148-REST-API-main)" project-jdk-type="Python SDK" />
   <component name="PyCharmProfessionalAdvertiser">
